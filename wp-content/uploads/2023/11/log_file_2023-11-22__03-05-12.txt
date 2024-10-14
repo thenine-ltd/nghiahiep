@@ -1,0 +1,47 @@
+
+---Downloaded files---
+The import files for: Demo 1 - Creative Agency were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://trongphihain20.sg-host.com
+Data file = /home/customer/www/trongphihain20.sg-host.com/public_html/wp-content/uploads/2023/11/demo-content-import-file_2023-11-22__03-05-12.xml
+Widget file = /home/customer/www/trongphihain20.sg-host.com/public_html/wp-content/uploads/2023/11/demo-widgets-import-file_2023-11-22__03-05-12.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Pages : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer column 1 : 
+
+Ohio: Logo - No Title - Imported
+Block - No Title - Imported
+
+Footer column 2 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer column 3 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer column 4 : 
+
+Ohio: Subscribe Form - Sign up for the newsletter - Imported
+
+
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,1837 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mcw-fullpage-gutenberg\n"
+"POT-Creation-Date: 2020-12-01 00:22+0300\n"
+"PO-Revision-Date: 2020-12-01 00:30+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __tr__;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: src\n"
+"X-Poedit-SearchPath-1: lib\n"
+"X-Poedit-SearchPath-2: mcw-fullpage-gutenberg.php\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: src/fp-wrapper/deprecated.js\n"
+"X-Poedit-SearchPathExcluded-2: src/fp-slide/deprecated.js\n"
+"X-Poedit-SearchPathExcluded-3: src/fp-section/deprecated.js\n"
+
+#: models/server.php:169
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: models/server.php:171
+msgid "View details"
+msgstr ""
+
+#: models/server.php:187
+msgid "Check for updates"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:154 mcw-fullpage-gutenberg.php:256
+msgid "Deactivate"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:206
+msgid ""
+"An error occured while activating the license. Please check your license key!"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:231
+msgid "Plugin Activation"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:232
+msgid "Plugin Activated!"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:232
+msgid "Plugin Not Activated!"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:239
+msgid "License"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:239
+msgid "License Key"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:241
+msgid ""
+"In order to register fullpage.js plugin for another domain, you'll have to "
+"deactivate your license for the current domain."
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:241
+msgid "The license key was sent to you on the purchase confirmation email"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:258
+msgid "Activate"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:268
+msgid "Plugin Updates"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:272
+msgid "Installed Version"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:277
+msgid "Latest Available Version"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:283
+msgid "Update"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:296
+msgid "Documentation"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:313 src/fp-wrapper/edit.js:1103
+msgid "Extensions"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:318
+#, php-format
+msgid "%s Extension Plugin Installed!"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:333
+msgid "Are you sure you want to deactivate?"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:368
+msgid "Activate Now!"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:372
+#, php-format
+msgid ""
+"%s plugin requires the license key to be activated. Please enter your "
+"license key!"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:375
+#, php-format
+msgid "%s plugin is NOT activated. Please check your license key!"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:411
+msgid "The request did not pass the security check."
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:413
+msgid ""
+"Please, try again. Try to refresh the page in order to renew security nonce."
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:422
+msgid "Invalid license key!"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:432
+msgid "Invalid extension!"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:452 mcw-fullpage-gutenberg.php:463
+#: mcw-fullpage-gutenberg.php:468
+msgid "Invalid response!"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:468
+msgid "Please check your license key!"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:480
+msgid ""
+"Failed to download the plugin! Please check your WordPress settings or "
+"contact support!"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:509
+msgid "You need to uninstall the old plugin first!"
+msgstr ""
+
+#: mcw-fullpage-gutenberg.php:552
+msgid "Plugin installed successfully!"
+msgstr ""
+
+#: src/components/background-control/background-control.js:58
+#: src/components/background-control/background-control.js:156
+msgid "Remove Image"
+msgstr ""
+
+#: src/components/background-control/background-control.js:106
+#: src/components/background-control/background-control.js:111
+msgid "Image Parameters"
+msgstr ""
+
+#: src/components/background-control/background-control.js:183
+msgid "Select mp4/m4v video"
+msgstr ""
+
+#: src/components/background-control/background-control.js:193
+msgid "Select ogv/ogg video"
+msgstr ""
+
+#: src/components/background-control/background-control.js:203
+msgid "Select webm video"
+msgstr ""
+
+#: src/components/background-control/background-control.js:272
+msgid "Image"
+msgstr ""
+
+#: src/components/background-control/background-control.js:277
+msgid "Video"
+msgstr ""
+
+#: src/components/color-control/color-control.js:71
+msgid "Select Color"
+msgstr ""
+
+#: src/components/color-control/color-control.js:110
+msgid "Clear"
+msgstr ""
+
+#: src/components/color-control/color-control.js:142
+#: src/components/color-control/color-control.js:161
+msgid "Color code"
+msgstr ""
+
+#: src/components/color-control/color-control.js:160
+msgid "Color"
+msgstr ""
+
+#: src/fp-section/attributes.js:40
+msgid "Full Height"
+msgstr ""
+
+#: src/fp-section/attributes.js:41
+msgid "Auto Height"
+msgstr ""
+
+#: src/fp-section/attributes.js:42
+msgid "Responsive Auto Height"
+msgstr ""
+
+#: src/fp-section/attributes.js:44
+msgid "Section Behaviour"
+msgstr ""
+
+#: src/fp-section/attributes.js:49
+msgid "FullPage Anchor"
+msgstr ""
+
+#: src/fp-section/attributes.js:54
+msgid "Navigation Tooltip"
+msgstr ""
+
+#: src/fp-section/attributes.js:59
+msgid "Disable Scroll Overflow"
+msgstr ""
+
+#: src/fp-section/attributes.js:66 src/fp-slide/attributes.js:33
+msgid "Main Navigation Color"
+msgstr ""
+
+#: src/fp-section/attributes.js:71 src/fp-slide/attributes.js:38
+msgid "Hover Navigation Color"
+msgstr ""
+
+#: src/fp-section/attributes.js:76 src/fp-slide/attributes.js:43
+msgid "Active Navigation Color"
+msgstr ""
+
+#: src/fp-section/attributes.js:89 src/fp-slide/attributes.js:56
+msgid "Background Color"
+msgstr ""
+
+#: src/fp-section/attributes.js:94 src/fp-section/attributes.js:99
+#: src/fp-section/edit.js:466 src/fp-section/edit.js:562
+#: src/fp-slide/attributes.js:61 src/fp-slide/attributes.js:66
+#: src/fp-slide/edit.js:305 src/fp-slide/edit.js:400
+msgid "Background Image"
+msgstr ""
+
+#: src/fp-section/attributes.js:105 src/fp-slide/attributes.js:72
+#: src/fp-wrapper/extensions/parallax.js:103
+msgid "Cover"
+msgstr ""
+
+#: src/fp-section/attributes.js:106 src/fp-slide/attributes.js:73
+msgid "Contain"
+msgstr ""
+
+#: src/fp-section/attributes.js:107 src/fp-slide/attributes.js:74
+msgid "Auto"
+msgstr ""
+
+#: src/fp-section/attributes.js:109 src/fp-slide/attributes.js:76
+msgid "Background Image Size"
+msgstr ""
+
+#: src/fp-section/attributes.js:115 src/fp-slide/attributes.js:82
+msgid "Center Top"
+msgstr ""
+
+#: src/fp-section/attributes.js:116 src/fp-slide/attributes.js:83
+msgid "Center Center"
+msgstr ""
+
+#: src/fp-section/attributes.js:117 src/fp-slide/attributes.js:84
+msgid "Center Bottom"
+msgstr ""
+
+#: src/fp-section/attributes.js:118 src/fp-slide/attributes.js:85
+msgid "Left Top"
+msgstr ""
+
+#: src/fp-section/attributes.js:119 src/fp-slide/attributes.js:86
+msgid "Left Center"
+msgstr ""
+
+#: src/fp-section/attributes.js:120 src/fp-slide/attributes.js:87
+msgid "Left Bottom"
+msgstr ""
+
+#: src/fp-section/attributes.js:121 src/fp-slide/attributes.js:88
+msgid "Right Top"
+msgstr ""
+
+#: src/fp-section/attributes.js:122 src/fp-slide/attributes.js:89
+msgid "Right Center"
+msgstr ""
+
+#: src/fp-section/attributes.js:123 src/fp-slide/attributes.js:90
+msgid "Right Bottom"
+msgstr ""
+
+#: src/fp-section/attributes.js:125 src/fp-slide/attributes.js:92
+msgid "Background Image Position"
+msgstr ""
+
+#: src/fp-section/attributes.js:131 src/fp-slide/attributes.js:98
+msgid "Scroll"
+msgstr ""
+
+#: src/fp-section/attributes.js:132 src/fp-slide/attributes.js:99
+msgid "Fixed"
+msgstr ""
+
+#: src/fp-section/attributes.js:134 src/fp-slide/attributes.js:101
+msgid "Background Image Attachment"
+msgstr ""
+
+#: src/fp-section/attributes.js:140 src/fp-slide/attributes.js:107
+msgid "No Repeat"
+msgstr ""
+
+#: src/fp-section/attributes.js:141 src/fp-slide/attributes.js:108
+msgid "Repeat"
+msgstr ""
+
+#: src/fp-section/attributes.js:142 src/fp-slide/attributes.js:109
+msgid "Repeat-x"
+msgstr ""
+
+#: src/fp-section/attributes.js:143 src/fp-slide/attributes.js:110
+msgid "Repeat-y"
+msgstr ""
+
+#: src/fp-section/attributes.js:145 src/fp-slide/attributes.js:112
+msgid "Background Image Repeat"
+msgstr ""
+
+#: src/fp-section/attributes.js:150 src/fp-slide/attributes.js:117
+msgid "Background Image Opacity"
+msgstr ""
+
+#: src/fp-section/attributes.js:158 src/fp-slide/attributes.js:125
+msgid "Self-Hosted"
+msgstr ""
+
+#: src/fp-section/attributes.js:159 src/fp-slide/attributes.js:126
+msgid "YouTube/Vimeo"
+msgstr ""
+
+#: src/fp-section/attributes.js:161 src/fp-slide/attributes.js:128
+msgid "Video Type"
+msgstr ""
+
+#: src/fp-section/attributes.js:172 src/fp-section/attributes.js:216
+#: src/fp-slide/attributes.js:139
+msgid "YouTube/Vimeo Video URL"
+msgstr ""
+
+#: src/fp-section/attributes.js:178 src/fp-slide/attributes.js:145
+msgid "Enable Video On Mobile"
+msgstr ""
+
+#: src/fp-section/attributes.js:184 src/fp-slide/attributes.js:151
+msgid "Loop"
+msgstr ""
+
+#: src/fp-section/attributes.js:190 src/fp-slide/attributes.js:157
+msgid "Mute"
+msgstr ""
+
+#: src/fp-section/attributes.js:196 src/fp-slide/attributes.js:163
+msgid "Auto Play"
+msgstr ""
+
+#: src/fp-section/attributes.js:202 src/fp-slide/attributes.js:169
+msgid "Always Play"
+msgstr ""
+
+#: src/fp-section/attributes.js:208 src/fp-slide/attributes.js:175
+#: src/fp-wrapper/attributes.js:593
+msgid "Extra Parameters"
+msgstr ""
+
+#: src/fp-section/block.js:28 src/fp-section/block.js:37
+msgid "FullPage Section"
+msgstr ""
+
+#: src/fp-section/block.js:38 src/fp-wrapper/attributes.js:583
+msgid "section"
+msgstr ""
+
+#: src/fp-section/block.js:39 src/fp-slide/block.js:39
+#: src/fp-wrapper/block.js:40
+msgid "meceware"
+msgstr ""
+
+#: src/fp-section/edit.js:363
+msgid "Section"
+msgstr ""
+
+#: src/fp-section/edit.js:421 src/fp-slide/edit.js:260
+#: src/fp-wrapper/edit.js:502
+msgid "Navigation"
+msgstr ""
+
+#: src/fp-section/edit.js:450 src/fp-slide/edit.js:289
+msgid "Background"
+msgstr ""
+
+#: src/fp-section/edit.js:466 src/fp-slide/edit.js:305
+msgid "Image to show while the video is downloading or until playing it"
+msgstr ""
+
+#: src/fp-section/edit.js:504 src/fp-slide/edit.js:342
+msgid "Poster Image"
+msgstr ""
+
+#: src/fp-section/edit.js:579 src/fp-slide/edit.js:416
+msgid "Expand"
+msgstr ""
+
+#: src/fp-section/edit.js:594 src/fp-slide/edit.js:430
+msgid "Collapse"
+msgstr ""
+
+#: src/fp-slide/block.js:28 src/fp-slide/block.js:37
+msgid "FullPage Slide"
+msgstr ""
+
+#: src/fp-slide/block.js:38
+msgid "slide"
+msgstr ""
+
+#: src/fp-slide/edit.js:251 src/fp-slide/edit.js:252
+msgid "Slide Anchor"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:12
+msgid "Enable FullPage"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:24 src/fp-wrapper/attributes.js:112
+#: src/fp-wrapper/attributes.js:136
+msgid "Off"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:25 src/fp-wrapper/attributes.js:113
+msgid "Left"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:26 src/fp-wrapper/attributes.js:114
+msgid "Right"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:28
+msgid "Section Navigation"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:29
+msgid "This parameter determines the position of navigation bullets."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:35 src/fp-wrapper/attributes.js:147
+#: src/fp-wrapper/attributes.js:205 src/fp-wrapper/attributes.js:301
+#: src/fp-wrapper/extensions/drag-and-move.js:30
+msgid "Default"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:36 src/fp-wrapper/attributes.js:148
+msgid "Circles"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:37 src/fp-wrapper/attributes.js:149
+msgid "Circles Inverted"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:38 src/fp-wrapper/attributes.js:150
+msgid "Expanding Circles"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:39 src/fp-wrapper/attributes.js:151
+msgid "Filled Circles"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:40 src/fp-wrapper/attributes.js:152
+msgid "Filled Circles Within"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:41 src/fp-wrapper/attributes.js:153
+msgid "Multiple Circles"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:42 src/fp-wrapper/attributes.js:154
+msgid "Rotating Circles"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:43 src/fp-wrapper/attributes.js:155
+msgid "Rotating Circles 2"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:44 src/fp-wrapper/attributes.js:156
+msgid "Squares"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:45 src/fp-wrapper/attributes.js:157
+msgid "Squares Border"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:46 src/fp-wrapper/attributes.js:158
+msgid "Expanding Squares"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:47 src/fp-wrapper/attributes.js:159
+msgid "Filled Squares"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:48 src/fp-wrapper/attributes.js:160
+msgid "Multiple Squares"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:49 src/fp-wrapper/attributes.js:161
+msgid "Squares to Rombs"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:50 src/fp-wrapper/attributes.js:162
+msgid "Multiple Squares to Rombs"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:51 src/fp-wrapper/attributes.js:163
+msgid "Filled Rombs"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:52 src/fp-wrapper/attributes.js:164
+msgid "Filled Bars"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:53 src/fp-wrapper/attributes.js:165
+msgid "Story Telling"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:56
+msgid "Section Navigation Style"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:57
+msgid "This parameter determines section navigation style."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:62 src/fp-wrapper/attributes.js:173
+msgid "Main Color"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:63
+msgid "This parameter sets the color of bullets on sections."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:68 src/fp-wrapper/attributes.js:179
+msgid "Hover Color"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:69
+msgid ""
+"This parameter sets the hover color of bullets on sections. This color may "
+"not be used in some of the navigation styles."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:74 src/fp-wrapper/attributes.js:185
+msgid "Active Color"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:75
+msgid ""
+"This parameter sets the active color of bullets on sections. This color may "
+"not be used in some of the navigation styles."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:80
+msgid "Tooltip Background Color"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:81
+msgid "The background color of the navigation tooltip."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:86
+msgid "Tooltip Text Color"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:87
+msgid "The text color of the navigation tooltip."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:92
+msgid "Show Active Tooltip"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:93
+msgid ""
+"This parameter shows a persistent tooltip for the actively viewed section in "
+"the vertical navigation."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:98
+msgid "Clickable Tooltip"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:99
+msgid ""
+"This parameter enables clickable persistent tooltip in the vertical "
+"navigation."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:104
+msgid "Bigger Navigation"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:105
+msgid "This parameter sets bigger navigation bullets."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:116
+msgid "Section Navigation Buttons"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:117
+msgid "This parameter determines the position of navigation buttons."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:122
+msgid "Button Background Color"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:123
+msgid "This parameter sets the background color of section navigation buttons."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:128
+msgid "Button Text Color"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:129
+msgid "This parameter sets the text color of section navigation buttons."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:137 src/fp-wrapper/attributes.js:302
+#: src/fp-wrapper/attributes.js:389
+msgid "Top"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:138 src/fp-wrapper/attributes.js:303
+#: src/fp-wrapper/attributes.js:391
+msgid "Bottom"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:140
+msgid "Slides Navigation"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:141
+msgid ""
+"This parameter determines the position of landscape navigation bar for "
+"sliders."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:167
+msgid "Slide Navigation Style"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:168
+msgid "This parameter determines slide navigation style."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:174
+msgid "This parameter sets the color of bullets on slides."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:180
+msgid ""
+"This parameter sets the hover color of bullets on slides. This color may not "
+"be used in some of the navigation styles."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:186
+msgid ""
+"This parameter sets the active color of bullets on slides. This color may "
+"not be used in some of the navigation styles."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:191
+msgid "Bigger Slide Navigation"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:192
+msgid "This parameter sets bigger slide navigation bullets."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:198
+msgid "Control Arrows"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:199
+msgid ""
+"This parameter determines whether to use control arrows for the slides to "
+"move right or left."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:206
+msgid "Modern"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:208
+msgid "Control Arrows Style"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:209
+msgid "This parameter determines the style of the control arrow."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:214
+msgid "Control Arrows Color"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:215
+msgid "This parameter determines the color of the control arrow."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:220
+msgid "Lock Anchors"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:221
+msgid ""
+"This parameter determines whether anchors in the URL will have any effect."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:226
+msgid "Disable Anchors"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:227
+msgid ""
+"This parameter determines whether to enable or disable all section anchors."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:232
+msgid "Animate Anchor"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:233
+msgid ""
+"This parameter defines whether the load of the site when given anchor (#) "
+"will scroll with animation to its destination."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:238
+msgid "Keyboard Scrolling"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:239
+msgid ""
+"This parameter defines if the content can be navigated using the keyboard."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:244
+msgid "Record History"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:245
+msgid ""
+"This parameter defines whether to push the state of the site to the browsers "
+"history, so back button will work on section navigation."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:252
+msgid "Auto Scrolling"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:253
+msgid ""
+"This parameter defines whether to use the automatic scrolling or the normal "
+"one."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:258
+msgid "Fit To Section"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:259
+msgid ""
+"This parameter determines whether or not to fit sections to the viewport or "
+"not."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:264
+msgid "Fit To Section Delay"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:265
+msgid "The delay in miliseconds for section fitting."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:270
+msgid "Scroll Bar"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:271 src/fp-wrapper/attributes.js:318
+#: src/fp-wrapper/attributes.js:324
+msgid ""
+"This parameter determines whether to use the scrollbar for the site or not."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:276
+msgid "Scroll Overflow"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:277
+msgid ""
+"This parameter defines whether or not to create a scroll for the section in "
+"case the content is bigger than the height of it. (Disabled when Scrollbars "
+"are enabled.)."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:282
+msgid "Show Scroll Overflow Scrollbars"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:283
+msgid ""
+"This parameter shows scrollbar when the scrolling is enabled inside the "
+"sections."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:288
+msgid "Fade Scroll Overflow Scrollbars"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:289
+msgid "This parameter fades scrollbar when unused."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:294
+msgid "Interactive Scroll Overflow Scrollbars"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:295
+msgid "This parameter makes scrollbar draggable and user can interact with it."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:305
+msgid "Big Sections Destination"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:306
+msgid ""
+"This parameter defines how to scroll to a section which size is bigger than "
+"the viewport."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:311
+msgid "Continuous Vertical"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:312
+msgid "This parameter determines vertical scrolling is continuous."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:317
+msgid "Loop Bottom"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:323
+msgid "Loop Top"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:329
+msgid "Loop Slides"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:330
+msgid ""
+"This parameter defines whether horizontal sliders will loop after reaching "
+"the last or previous slide or not."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:336
+msgid "CSS3 - Ease"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:337
+msgid "CSS3 - Linear"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:338
+msgid "CSS3 - Ease In"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:339
+msgid "CSS3 - Ease Out"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:340
+msgid "CSS3 - Ease In Out"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:341
+msgid "Linear"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:342
+msgid "Swing"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:343
+msgid "Ease In Quad"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:344
+msgid "Ease Out Quad"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:345
+msgid "Ease In Out Quad"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:346
+msgid "Ease In Cubic"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:347
+msgid "Ease Out Cubic"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:348
+msgid "Ease In Out Cubic"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:349
+msgid "Ease In Quart"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:350
+msgid "Ease Out Quart"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:351
+msgid "Ease In Out Quart"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:352
+msgid "Ease In Quint"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:353
+msgid "Ease Out Quint"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:354
+msgid "Ease In Out Quint"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:355
+msgid "Ease In Expo"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:356
+msgid "Ease Out Expo"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:357
+msgid "Ease In Out Expo"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:358
+msgid "Ease In Sine"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:359
+msgid "Ease Out Sine"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:360
+msgid "Ease In Out Sine"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:361
+msgid "Ease In Circ"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:362
+msgid "Ease Out Circ"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:363
+msgid "Ease In Out Circ"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:364
+msgid "Ease In Elastic"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:365
+msgid "Ease Out Elastic"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:366
+msgid "Ease In Out Elastic"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:367
+msgid "Ease In Back"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:368
+msgid "Ease Out Back"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:369
+msgid "Ease In Out Back"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:370
+msgid "Ease In Bounce"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:371
+msgid "Ease Out Bounce"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:372
+msgid "Ease In Out Bounce"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:374
+msgid "Easing"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:375
+msgid "This parameter determines the transition effect."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:380
+msgid "Scrolling Speed"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:381
+msgid "Speed in miliseconds for the scrolling transitions."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:390
+msgid "Center"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:393
+msgid "Vertical Alignment"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:394
+msgid ""
+"This parameter determines the position of the content vertically in the "
+"section."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:403
+msgid "Responsive Width"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:404
+msgid ""
+"Normal scroll will be used under the defined width in pixels. "
+"(autoScrolling: false)"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:409
+msgid "Responsive Height"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:410
+msgid ""
+"Normal scroll will be used under the defined height in pixels. "
+"(autoScrolling: false)"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:415
+msgid "Fixed Elements"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:416
+msgid ""
+"Defines which elements will be taken off the scrolling structure of the "
+"plugin which is necessary when using the keep elements fixed with css. Enter "
+"comma seperated element selectors. (example: #element1, .element2)"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:421
+msgid "Normal Scroll Elements"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:422
+msgid ""
+"If you want to avoid the auto scroll when scrolling over some elements, this "
+"is the option you need to use. (useful for maps, scrolling divs etc.) Enter "
+"comma seperated element selectors. (example: #element1, .element2)"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:427 src/fp-wrapper/attributes.js:433
+#: src/fp-wrapper/edit.js:877 src/fp-wrapper/edit.js:878
+#: src/fp-wrapper/edit.js:1267 src/fp-wrapper/edit.js:1283
+msgid "Custom CSS"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:434
+msgid "The custom CSS code for the page."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:441 src/fp-wrapper/attributes.js:447
+msgid "afterRender"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:448
+msgid "Fired just after the structure of the page is generated."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:453 src/fp-wrapper/attributes.js:459
+msgid "afterResize"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:460
+msgid "Fired after resizing the browsers window."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:465 src/fp-wrapper/attributes.js:471
+msgid "afterLoad"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:472
+msgid ""
+"Fired once the sections have been loaded, after the scrolling has ended."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:477 src/fp-wrapper/attributes.js:483
+msgid "onLeave"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:484
+msgid "Fired once the user leaves a section."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:489 src/fp-wrapper/attributes.js:495
+msgid "afterSlideLoad"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:496
+msgid ""
+"Fired once the slide of a section has been loaded, after the scrolling has "
+"ended."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:501 src/fp-wrapper/attributes.js:507
+msgid "onSlideLeave"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:508
+msgid "Fired once the user leaves a slide to go another."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:513 src/fp-wrapper/attributes.js:519
+msgid "afterResponsive"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:520
+msgid ""
+"The javascript code that runs after normal mode is changed to responsive "
+"mode or responsive mode is changed to normal mode."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:525 src/fp-wrapper/attributes.js:531
+msgid "afterReBuild"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:532
+msgid "The javascript code that runs after manually re-building fullpage.js."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:537 src/fp-wrapper/attributes.js:543
+msgid "Before FullPage"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:544
+msgid ""
+"The javascript code that runs right after document is ready and before "
+"fullpage is called."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:549 src/fp-wrapper/attributes.js:555
+msgid "After FullPage"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:556
+msgid ""
+"The javascript code that runs right after document is ready and after "
+"fullpage is called."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:563
+msgid "Enable FullPage Extensions"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:564
+msgid "This parameter enable fullpage extensions."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:569
+msgid "FullPage License Key"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:570
+msgid "FullPage license key"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:582
+msgid "div"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:584
+msgid "article"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:585
+msgid "main"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:587
+msgid "Container HTML tag"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:588
+msgid "This parameter changes the container HTML tag name."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:594
+msgid ""
+"If there are parameters you want to include, add these parameters (comma "
+"seperated). Example: parameter1:true, parameter2:15"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:599
+msgid "Video Autoplay"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:600
+msgid ""
+"This parameter enables playing the videos (HTML5 and Youtube) only when the "
+"section is in view and stops it otherwise."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:605
+msgid "Video Keep Playing"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:606
+msgid ""
+"This parameter enables playing the videos (HTML5 and Youtube) even when "
+"section is not in the view."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:611
+msgid "Remove Theme Margins"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:612
+msgid "This parameter forces to remove theme wrapper margins and paddings."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:617
+msgid "Force Fixed Theme Header"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:618
+msgid "This parameter forces to make theme header fixed on top."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:623
+msgid "Theme Header Selector"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:623
+msgid "Toggle Header"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:624
+msgid "This parameter is the theme header CSS selector. (Example: .header)."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:629
+msgid "Show Theme Footer"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:630
+msgid "This parameter tries to move the theme footer inside the last section."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:635
+msgid "Theme Footer Selector"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:636
+msgid "This parameter is the theme footer CSS selector. (Example: .footer)."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:643
+msgid "Enable JQuery Dependency"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:644
+msgid "This parameter enables JQuery dependency."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:649
+msgid "Enable Empty Page Template"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:650
+msgid ""
+"This parameter defines if page will be redirected to the defined template. "
+"The template is independent from the theme and is an empty page template if "
+"not defined."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:655
+msgid "Use Template Redirect"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:656
+msgid ""
+"This parameter defines if template will be redirected or included. If set, "
+"template will be redirected, otherwise template will be included. Play with "
+"this setting to see the best scenario that fits."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:661
+msgid "Template Path"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:662
+msgid ""
+"If you want to use your own template, put the template path and template "
+"name here. If left empty, an empty predefined page template will be used."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:667
+msgid "Remove Theme JS"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:668
+msgid ""
+"This parameter removes theme javascript from output. Be aware, this might "
+"crash the page output if the theme has JS output on the head section."
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:673
+msgid "Remove JS"
+msgstr ""
+
+#: src/fp-wrapper/attributes.js:674
+msgid ""
+"This parameter removes specified javascript from output. Be aware, this "
+"might crash the page output. Write javascript names with comma in between."
+msgstr ""
+
+#: src/fp-wrapper/block.js:29 src/fp-wrapper/edit.js:1338
+msgid "FullPage for Gutenberg"
+msgstr ""
+
+#: src/fp-wrapper/block.js:31
+msgid "Enable FullPage on this page."
+msgstr ""
+
+#: src/fp-wrapper/block.js:38
+msgid "FullPage"
+msgstr ""
+
+#: src/fp-wrapper/block.js:39
+msgid "FullPage Wrapper"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:511 src/fp-wrapper/edit.js:512
+msgid "Section Navigation Settings"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:513 src/fp-wrapper/edit.js:584
+#: src/fp-wrapper/edit.js:613 src/fp-wrapper/edit.js:659
+#: src/fp-wrapper/edit.js:879 src/fp-wrapper/edit.js:903
+#: src/fp-wrapper/edit.js:924 src/fp-wrapper/edit.js:945
+#: src/fp-wrapper/edit.js:966 src/fp-wrapper/edit.js:987
+#: src/fp-wrapper/edit.js:1008 src/fp-wrapper/edit.js:1029
+#: src/fp-wrapper/edit.js:1050 src/fp-wrapper/edit.js:1071
+#: src/fp-wrapper/edit.js:1090 src/fp-wrapper/edit.js:1180
+#: src/fp-wrapper/edit.js:1297
+msgid "Save/Close"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:582 src/fp-wrapper/edit.js:583
+msgid "Section Navigation Buttons Settings"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:611 src/fp-wrapper/edit.js:612
+msgid "Slide Navigation Settings"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:657 src/fp-wrapper/edit.js:658
+msgid "Control Arrow Settings"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:705
+msgid "Scrolling"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:819
+msgid "Design"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:827
+msgid "Content Padding (px)"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:893
+msgid "Events"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:901
+msgid "afterRender Event Javascript"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:902
+msgid "afterRender Event"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:922
+msgid "afterResize Event Javascript"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:923
+msgid "afterResize Event"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:943
+msgid "afterLoad Event Javascript"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:944
+msgid "afterLoad Event"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:964
+msgid "onLeave Event Javascript"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:965
+msgid "onLeave Event"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:985
+msgid "afterSlideLoad Event Javascript"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:986
+msgid "afterSlideLoad Event"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1006
+msgid "onSlideLeave Event Javascript"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1007
+msgid "onSlideLeave Event"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1027
+msgid "afterResponsive Event Javascript"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1028
+msgid "afterResponsive Event"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1048
+msgid "afterReBuild Event Javascript"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1049
+msgid "afterReBuild Event"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1069
+msgid "beforeFullPage Event Javascript"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1070
+msgid "beforeFullPage Event"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1088
+msgid "afterFullPage Event Javascript"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1089
+msgid "afterFullPage Event"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1118
+msgid "Customizations"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1178 src/fp-wrapper/edit.js:1179
+msgid "Advanced Parameters"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1226
+msgid "Vertical Align Top"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1238
+msgid "Vertical Align Center"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1250
+msgid "Vertical Align Bottom"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1356
+msgid "Add Section"
+msgstr ""
+
+#: src/fp-wrapper/edit.js:1364
+msgid "Add Section with Slides"
+msgstr ""
+
+#: src/fp-wrapper/extensions/cards.js:27
+msgid "Cards"
+msgstr ""
+
+#: src/fp-wrapper/extensions/cards.js:28
+msgid "This parameter enables fullpage Cards extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/cards.js:32
+msgid "Cards Activation Key"
+msgstr ""
+
+#: src/fp-wrapper/extensions/cards.js:33
+msgid "This parameter is the activation key for Cards extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/cards.js:42
+msgid "Perspective"
+msgstr ""
+
+#: src/fp-wrapper/extensions/cards.js:43
+msgid "Fading Content"
+msgstr ""
+
+#: src/fp-wrapper/extensions/cards.js:44
+msgid "Fading Background"
+msgstr ""
+
+#: src/fp-wrapper/extensions/cards.js:47
+msgid "This parameter sets fullpage Cards extension perspective option."
+msgstr ""
+
+#: src/fp-wrapper/extensions/cards.js:48
+msgid "This parameter enables fullpage Cards extension fadingContent option."
+msgstr ""
+
+#: src/fp-wrapper/extensions/cards.js:49
+msgid ""
+"This parameter enables fullpage Cards extension fadingBackground option."
+msgstr ""
+
+#: src/fp-wrapper/extensions/continuous-horizontal.js:28
+msgid "Continuous Horizontal"
+msgstr ""
+
+#: src/fp-wrapper/extensions/continuous-horizontal.js:29
+msgid "This parameter enables fullpage Continuous Horizontal extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/continuous-horizontal.js:34
+msgid "Continuous Horizontal Activation Key"
+msgstr ""
+
+#: src/fp-wrapper/extensions/continuous-horizontal.js:35
+msgid ""
+"This parameter is the activation key for Continuous Horizontal extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/drag-and-move.js:31
+msgid "Vertical"
+msgstr ""
+
+#: src/fp-wrapper/extensions/drag-and-move.js:32
+msgid "Horizontal"
+msgstr ""
+
+#: src/fp-wrapper/extensions/drag-and-move.js:33
+msgid "Fingers Only"
+msgstr ""
+
+#: src/fp-wrapper/extensions/drag-and-move.js:34
+msgid "Mouse Only"
+msgstr ""
+
+#: src/fp-wrapper/extensions/drag-and-move.js:36
+msgid "Drag And Move"
+msgstr ""
+
+#: src/fp-wrapper/extensions/drag-and-move.js:37
+msgid "This parameter enables fullpage Drag And Move extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/drag-and-move.js:42
+msgid "Drag And Move Activation Key"
+msgstr ""
+
+#: src/fp-wrapper/extensions/drag-and-move.js:43
+msgid "This parameter is the activation key for Drag And Move extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/drag-and-move.js:68
+msgid "Value"
+msgstr ""
+
+#: src/fp-wrapper/extensions/fading-effect.js:30
+#: src/fp-wrapper/extensions/parallax.js:30
+msgid "All"
+msgstr ""
+
+#: src/fp-wrapper/extensions/fading-effect.js:31
+#: src/fp-wrapper/extensions/parallax.js:31
+msgid "Sections"
+msgstr ""
+
+#: src/fp-wrapper/extensions/fading-effect.js:32
+#: src/fp-wrapper/extensions/parallax.js:32
+msgid "Slides"
+msgstr ""
+
+#: src/fp-wrapper/extensions/fading-effect.js:34
+msgid "Fading Effect"
+msgstr ""
+
+#: src/fp-wrapper/extensions/fading-effect.js:35
+msgid "This parameter enables fullpage Fading Effect extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/fading-effect.js:40
+msgid "Fading Effect Activation Key"
+msgstr ""
+
+#: src/fp-wrapper/extensions/fading-effect.js:41
+msgid "This parameter is the activation key for Fading Effect extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/fading-effect.js:66
+#: src/fp-wrapper/extensions/parallax.js:90
+msgid "Target"
+msgstr ""
+
+#: src/fp-wrapper/extensions/interlocked-slides.js:28
+msgid "Interlocked Slides"
+msgstr ""
+
+#: src/fp-wrapper/extensions/interlocked-slides.js:29
+msgid "This parameter enables fullpage Interlocked Slides extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/interlocked-slides.js:34
+msgid "Interlocked Slides Activation Key"
+msgstr ""
+
+#: src/fp-wrapper/extensions/interlocked-slides.js:35
+msgid "This parameter is the activation key for Interlocked Slides extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/offset-sections.js:28
+msgid "Offset Sections"
+msgstr ""
+
+#: src/fp-wrapper/extensions/offset-sections.js:29
+msgid "This parameter enables fullpage Offset Sections extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/offset-sections.js:34
+msgid "Offset Sections Activation Key"
+msgstr ""
+
+#: src/fp-wrapper/extensions/offset-sections.js:35
+msgid "This parameter is the activation key for Offset Sections extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/parallax.js:34
+msgid "Parallax"
+msgstr ""
+
+#: src/fp-wrapper/extensions/parallax.js:35
+msgid "This parameter enables fullpage Parallax extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/parallax.js:40
+msgid "Parallax Key"
+msgstr ""
+
+#: src/fp-wrapper/extensions/parallax.js:41
+msgid "This parameter is the private key for Parallax extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/parallax.js:50
+msgid "Type"
+msgstr ""
+
+#: src/fp-wrapper/extensions/parallax.js:51
+msgid "Percentage"
+msgstr ""
+
+#: src/fp-wrapper/extensions/parallax.js:54
+msgid ""
+"This parameter provides a way to choose if the current section will be above "
+"or below the destination one."
+msgstr ""
+
+#: src/fp-wrapper/extensions/parallax.js:55
+msgid ""
+"This parameter provides a way to define the percentage of the parallax "
+"effect. Maximum value (100) will show completely static backgrounds."
+msgstr ""
+
+#: src/fp-wrapper/extensions/parallax.js:102
+msgid "Reveal"
+msgstr ""
+
+#: src/fp-wrapper/extensions/reset-sliders.js:28
+msgid "Reset Sliders"
+msgstr ""
+
+#: src/fp-wrapper/extensions/reset-sliders.js:29
+msgid "This parameter enables fullpage Reset Sliders extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/reset-sliders.js:34
+msgid "Reset Sliders Activation Key"
+msgstr ""
+
+#: src/fp-wrapper/extensions/reset-sliders.js:35
+msgid "This parameter is the activation key for Reset Sliders extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/responsive-slides.js:28
+msgid "Responsive Slides"
+msgstr ""
+
+#: src/fp-wrapper/extensions/responsive-slides.js:29
+msgid "This parameter enables fullpage Responsive Slides extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/responsive-slides.js:34
+msgid "Responsive Slides Activation Key"
+msgstr ""
+
+#: src/fp-wrapper/extensions/responsive-slides.js:35
+msgid "This parameter is the activation key for Responsive Slides extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/scroll-horizontally.js:28
+msgid "Scroll Horizontally"
+msgstr ""
+
+#: src/fp-wrapper/extensions/scroll-horizontally.js:29
+msgid "This parameter enables fullpage Scroll Horizontally extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/scroll-horizontally.js:34
+msgid "Scroll Horizontally Activation Key"
+msgstr ""
+
+#: src/fp-wrapper/extensions/scroll-horizontally.js:35
+msgid "This parameter is the activation key for Scroll Horizontally extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/scroll-overflow-reset.js:28
+msgid "Scroll Overflow Reset"
+msgstr ""
+
+#: src/fp-wrapper/extensions/scroll-overflow-reset.js:29
+msgid "This parameter enables fullpage Scroll Overflow Reset extension."
+msgstr ""
+
+#: src/fp-wrapper/extensions/scroll-overflow-reset.js:34
+msgid "Scroll Overflow Reset Activation Key"
+msgstr ""
+
+#: src/fp-wrapper/extensions/scroll-overflow-reset.js:35
+msgid ""
+"This parameter is the activation key for Scroll Overflow Reset extension."
+msgstr ""
+
+#: src/verify.js:26
+msgid "license key"
+msgstr ""
+
+#: src/verify.js:29
+msgid "Plugin is NOT activated!"
+msgstr ""
+
+#: src/verify.js:29
+msgid "Please enter your"
+msgstr ""
+
+#: src/verify.js:29
+msgid "to see all of the plugin options!"
+msgstr ""

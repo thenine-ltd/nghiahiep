@@ -1,0 +1,2 @@
+<?php
+return ['project-id-version'=>'Norebro 1.4.3','report-msgid-bugs-to'=>'https://wordpress.org/support/theme/norebro','pot-creation-date'=>'2023-11-08 15:35+0000','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','po-revision-date'=>'2024-07-06 09:30+0000','last-translator'=>'','language-team'=>'Tiếng Việt','language'=>'vi','plural-forms'=>'nplurals=1; plural=0;','x-generator'=>'Loco https://localise.biz/','x-loco-version'=>'2.6.10; wp-6.5.5','messages'=>['Share'=>'Chia sẻ','View Project'=>'Xem Hình Ảnh']];

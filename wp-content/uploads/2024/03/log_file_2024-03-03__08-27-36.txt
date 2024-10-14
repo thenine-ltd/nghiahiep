@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: Blog Page were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://nghiahiepbinhthanh.vn
+Data file = /home/customer/www/nghiahiepbinhthanh.vn/public_html/wp-content/uploads/2024/03/demo-content-import-file_2024-03-03__08-27-36.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/after_import---
+

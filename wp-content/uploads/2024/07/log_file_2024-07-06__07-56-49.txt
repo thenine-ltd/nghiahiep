@@ -1,0 +1,30 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://nghiahiepbinhthanh.vn
+Data file = /home/customer/www/nghiahiepbinhthanh.vn/public_html/wp-content/themes/gilber/inc/demo/demo-content.xml
+Widget file = /home/customer/www/nghiahiepbinhthanh.vn/public_html/wp-content/themes/gilber/inc/demo/widgets.wie
+Customizer file = /home/customer/www/nghiahiepbinhthanh.vn/public_html/wp-content/themes/gilber/inc/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Tìm kiếm - No Title - Imported
+Bài viết mới - No Title - Imported
+Bình luận gần đây - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

@@ -1,0 +1,1493 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Sparka - Yoga Studio & Meditation Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/askproject.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Newsletter",
+            "screenshot": "screenshots\/form-newsletter.jpg",
+            "source": "templates\/form-newsletter.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/form-newsletter\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Classes",
+            "screenshot": "screenshots\/classes.jpg",
+            "source": "templates\/classes.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/classes\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Class Detail",
+            "screenshot": "screenshots\/class-detail.jpg",
+            "source": "templates\/class-detail.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/class-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Events",
+            "screenshot": "screenshots\/events.jpg",
+            "source": "templates\/events.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/events\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Event Detail",
+            "screenshot": "screenshots\/event-detail.jpg",
+            "source": "templates\/event-detail.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/event-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Contact",
+            "screenshot": "screenshots\/form-contact.jpg",
+            "source": "templates\/form-contact.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/form-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/askproject.net\/sparka\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Gum Elementor Addon",
+            "version": "1.3.2",
+            "file": "gum-elementor-addon\/gum-elementor-addon.php",
+            "author": "TemeGUM"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.8.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.19.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo_Asset-1.png",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/logo_Asset-1-800x243.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 16293,
+            "dimensions": [
+                1001,
+                304
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_Asset-2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/logo_Asset-2-800x244.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 16239,
+            "dimensions": [
+                1001,
+                305
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-women-practicing-acroyoga-in-sunny-studio-8A7HMFS.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/young-women-practicing-acroyoga-in-sunny-studio-8A7HMFS-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 81378,
+            "dimensions": [
+                1200,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8A7HMFS"
+        },
+        {
+            "filename": "shape_Asset-4.png",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/shape_Asset-4-800x451.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 33303,
+            "dimensions": [
+                1065,
+                601
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "man-and-woman-sitting-in-lotus-position-back-to-ba-CFEAH8Y.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/man-and-woman-sitting-in-lotus-position-back-to-ba-CFEAH8Y-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 110741,
+            "dimensions": [
+                1200,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CFEAH8Y"
+        },
+        {
+            "filename": "group-of-diverse-women-sitting-on-mats-and-doing-y-TNJJZWX.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/group-of-diverse-women-sitting-on-mats-and-doing-y-TNJJZWX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 200815,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TNJJZWX"
+        },
+        {
+            "filename": "shape_Asset-9.png",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/shape_Asset-9-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 17932,
+            "dimensions": [
+                901,
+                901
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "women-twisting-body-in-extended-triangle-pose-3GASDTX-e1707740154357.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/women-twisting-body-in-extended-triangle-pose-3GASDTX-e1707740154357-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 163653,
+            "dimensions": [
+                1200,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3GASDTX"
+        },
+        {
+            "filename": "balancing-in-extended-triangle-pose-2H4CDCD.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/balancing-in-extended-triangle-pose-2H4CDCD-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 109139,
+            "dimensions": [
+                1200,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2H4CDCD"
+        },
+        {
+            "filename": "a-young-female-yoga-instructor-trains-on-a-mat-in-C34MD4Q.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/a-young-female-yoga-instructor-trains-on-a-mat-in-C34MD4Q-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 216938,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-C34MD4Q"
+        },
+        {
+            "filename": "a-group-of-girls-do-yoga-in-the-gym-under-the-guid-K64W4WL.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/a-group-of-girls-do-yoga-in-the-gym-under-the-guid-K64W4WL-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                }
+            ],
+            "filesize": 209060,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-K64W4WL"
+        },
+        {
+            "filename": "beautiful-young-woman-working-out-in-gym-doing-fo-X2YFA67.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/beautiful-young-woman-working-out-in-gym-doing-fo-X2YFA67-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 151619,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X2YFA67"
+        },
+        {
+            "filename": "group-of-multiracial-women-practicing-fitness-in-g-Y4YMKAG.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/group-of-multiracial-women-practicing-fitness-in-g-Y4YMKAG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                }
+            ],
+            "filesize": 216969,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y4YMKAG"
+        },
+        {
+            "filename": "children-do-yoga-in-the-gym-under-the-guidance-of-KX7GJMQ.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/children-do-yoga-in-the-gym-under-the-guidance-of-KX7GJMQ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 190778,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KX7GJMQ"
+        },
+        {
+            "filename": "high-angle-view-of-five-young-people-meditating-in-57E48PC-1.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/high-angle-view-of-five-young-people-meditating-in-57E48PC-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                }
+            ],
+            "filesize": 212524,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-57E48PC"
+        },
+        {
+            "filename": "logobg3.png",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/logobg3-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 16720,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-smiling-young-woman-looking-at-camera-PTYXNNM.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/portrait-of-smiling-young-woman-looking-at-camera-PTYXNNM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 114361,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTYXNNM"
+        },
+        {
+            "filename": "portrait-of-a-sports-woman-on-a-fitness-training-BKEKNJ2.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/portrait-of-a-sports-woman-on-a-fitness-training-BKEKNJ2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 64146,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BKEKNJ2"
+        },
+        {
+            "filename": "portrait-sport-young-confident-woman-doing-exercis-WFVMA8W.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/portrait-sport-young-confident-woman-doing-exercis-WFVMA8W.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 76143,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WFVMA8W"
+        },
+        {
+            "filename": "portrait-of-a-muscular-athlete-in-white-fitness-at-fitness.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/portrait-of-a-muscular-athlete-in-white-fitness-at-fitness-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 86073,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7YKNPTE"
+        },
+        {
+            "filename": "girl-in-swimsuit-practices-yoga-in-water-ADKQ63T.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/girl-in-swimsuit-practices-yoga-in-water-ADKQ63T-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 63609,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ADKQ63T"
+        },
+        {
+            "filename": "young-woman-practicing-pilates-in-an-urban-park-LUXNVNK.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/young-woman-practicing-pilates-in-an-urban-park-LUXNVNK-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 120971,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LUXNVNK"
+        },
+        {
+            "filename": "girl-in-swimsuit-practices-yoga-in-water-GKXRTJE.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/girl-in-swimsuit-practices-yoga-in-water-GKXRTJE-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 86279,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GKXRTJE"
+        },
+        {
+            "filename": "beautiful-slim-healthy-woman-in-swimsuit-practicin-BXZD8S4.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/beautiful-slim-healthy-woman-in-swimsuit-practicin-BXZD8S4-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 144120,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BXZD8S4"
+        },
+        {
+            "filename": "happy-young-brunette-woman-blogger-exercising-with-G8ET2M6.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/happy-young-brunette-woman-blogger-exercising-with-G8ET2M6-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 120612,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G8ET2M6"
+        },
+        {
+            "filename": "with-mat-in-hands-young-caucasian-woman-with-slim-GF3WBVJ.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/with-mat-in-hands-young-caucasian-woman-with-slim-GF3WBVJ-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 85029,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GF3WBVJ"
+        },
+        {
+            "filename": "fitness-blogging-portrait-of-sporty-brunette-lady-FPC3U7L.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/fitness-blogging-portrait-of-sporty-brunette-lady-FPC3U7L-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 89737,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FPC3U7L"
+        },
+        {
+            "filename": "portrait-of-young-beautiful-yoga-trainer-in-red-ju-ST4R3K8.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/portrait-of-young-beautiful-yoga-trainer-in-red-ju-ST4R3K8-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 122066,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ST4R3K8"
+        },
+        {
+            "filename": "young-woman-with-slim-body-type-is-in-fitness-clot-N5VREQM.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/young-woman-with-slim-body-type-is-in-fitness-clot-N5VREQM-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 91469,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N5VREQM"
+        },
+        {
+            "filename": "group-of-diverse-women-doing-yoga-exercise-in-gym-U3PU7T2.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/group-of-diverse-women-doing-yoga-exercise-in-gym-U3PU7T2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 204528,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U3PU7T2"
+        },
+        {
+            "filename": "multiethnic-women-doing-yoga-practice-in-gym-BL73DDP.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/multiethnic-women-doing-yoga-practice-in-gym-BL73DDP-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                }
+            ],
+            "filesize": 218374,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BL73DDP"
+        },
+        {
+            "filename": "be-healthy-with-yoga-V3Q9R9G.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/be-healthy-with-yoga-V3Q9R9G-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/class-detail.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 208699,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V3Q9R9G"
+        },
+        {
+            "filename": "shot-of-a-group-of-young-men-and-women-practicing-SML3SNG.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/shot-of-a-group-of-young-men-and-women-practicing-SML3SNG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 208597,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SML3SNG"
+        },
+        {
+            "filename": "webinar-e-learning-at-home-video-conferencing-di-S53P55Q.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/webinar-e-learning-at-home-video-conferencing-di-S53P55Q-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 121628,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S53P55Q"
+        },
+        {
+            "filename": "smiling-woman-with-yoga-mat-YEPYA2N.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/smiling-woman-with-yoga-mat-YEPYA2N-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 103562,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YEPYA2N"
+        },
+        {
+            "filename": "man-doing-tree-pose-H935JSM.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/man-doing-tree-pose-H935JSM-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 65042,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H935JSM"
+        },
+        {
+            "filename": "a-woman-stands-near-a-hanging-burgundy-hammock-bef-STVGRNG.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/a-woman-stands-near-a-hanging-burgundy-hammock-bef-STVGRNG-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 143941,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-STVGRNG"
+        },
+        {
+            "filename": "shot-of-a-group-of-young-men-and-women-meditating-4SNXJ58.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/shot-of-a-group-of-young-men-and-women-meditating-4SNXJ58-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 195682,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4SNXJ58"
+        },
+        {
+            "filename": "beautiful-smiling-women-are-doing-pilates-in-a-bri-FFF3BXD.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/beautiful-smiling-women-are-doing-pilates-in-a-bri-FFF3BXD-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 145285,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FFF3BXD"
+        },
+        {
+            "filename": "opening-lungs-in-cobra-pose-NWDEMTB.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/opening-lungs-in-cobra-pose-NWDEMTB-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 157935,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NWDEMTB"
+        },
+        {
+            "filename": "people-exercising-during-yoga-class-ZL8W56G.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/people-exercising-during-yoga-class-ZL8W56G-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 161992,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZL8W56G"
+        },
+        {
+            "filename": "children-do-yoga-in-the-gym-under-the-guidance-of-2RZ7ATX.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/children-do-yoga-in-the-gym-under-the-guidance-of-2RZ7ATX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 168394,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2RZ7ATX"
+        },
+        {
+            "filename": "group-of-people-in-a-yoga-class-indoors-closing-e-G397VEY.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/group-of-people-in-a-yoga-class-indoors-closing-e-G397VEY-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 157900,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G397VEY"
+        },
+        {
+            "filename": "404_Asset-10.png",
+            "thumbnail_url": "https:\/\/askproject.net\/sparka\/wp-content\/uploads\/sites\/172\/2024\/02\/404_Asset-10-800x303.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 15920,
+            "dimensions": [
+                1001,
+                379
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
